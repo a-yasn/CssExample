@@ -1,0 +1,20 @@
+p {
+  color: red;
+  text-align: center;
+} /* for all tags p */
+
+#para1 {
+  text-align: center;
+  color: red;
+} /* for element with id */
+
+.center {
+  text-align: center;
+  color: red;
+} /* for all classes */
+
+h1, h2, p {
+  text-align: center;
+  color: red;
+} /* for different tags with same properties */
+
