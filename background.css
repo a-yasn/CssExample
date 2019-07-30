@@ -1,0 +1,28 @@
+.bg-color{
+  background-color:red;
+}
+
+.bg-image{
+  background-image: url("bg.jpg");
+}
+
+.bg-image-rh{
+  background-image: url("bg.jpg");
+  background-repeat: repeat-x;
+}
+
+.bg-image-rv{
+  background-image: url("bg.jpg");
+  background-repeat: repeat-y;
+}
+
+.bg-image-r0{
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+}
+
+.bg-image-r0-p{
+  background-image: url("bg.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+}
