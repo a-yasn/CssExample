@@ -1,0 +1,25 @@
+.bg {
+  background-color:Tomato;
+} /* use color name */
+
+.bgc {
+  background-color:#ff6347;
+} /* use color hex */
+
+.bgd {
+  background-color:rgb(255, 99, 71);
+} /* use color rgb */
+
+.bgh {
+  background-color:hsl(0, 100%, 50%);
+} /* use color hsl */
+
+.bgda {
+  background-color:rgba(255, 99, 71, 0.2);
+} /* use color rgb with transparent */
+
+.bgh {
+  background-color:hsla(0, 100%, 50%, 0.1);
+} /* use color rgb with transparent */
+
+
